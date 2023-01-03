@@ -9,3 +9,5 @@ Para los siguientes problemas, escribir un código en Python que cumpla con lo s
   
   
 Links de interés: `https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/`, `https://www.hostinger.es/tutoriales/instalar-git-en-distintos-sistemas-operativos`
+
+Link de jupyter : https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86.exe
