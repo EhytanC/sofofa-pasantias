@@ -1,4 +1,4 @@
-palabra = str(input("ingresa palabra: "))
+palabra = str(input("Ingresa una palabra: "))
 palabra = palabra.lower()
 palabra = palabra.replace(" ","")
 palabra = palabra.replace("á","a")
@@ -7,6 +7,6 @@ palabra = palabra.replace("í","i")
 palabra = palabra.replace("ó","o")
 palabra = palabra.replace("ú","u")
 if palabra == palabra[::-1]:
-    print("palindroma")
+    print("La palabra "+palabra+" es palindroma")
 else:
-    print("no palindroma")
+    print("La palabra "+palabra+" no es palindroma")
