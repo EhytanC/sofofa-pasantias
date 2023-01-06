@@ -26,6 +26,7 @@ def buscarIngredientes(idRec):
          allIng.append(ingredientes)
     return allIng
 
+# codigo principal
 while varSlt != "salir":
     print("\n-Buscador de rectas")
     print('Escribe "salir" para finalizar el programa \n')
